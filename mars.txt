@@ -6,4 +6,7 @@ I think a band also wants to get there in 30 Seconds.
 
 I cannot think of other things to write about Mars.
 
-I can think of a couple of things.
+<<<<<<< HEAD
+=======
+I wish it would be my reigning planet now that Pluto is dead.
+>>>>>>> de0d7067cc7c4112522e7c12d530c4a312f516bf
